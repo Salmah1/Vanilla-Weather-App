@@ -24,7 +24,7 @@ A web-based weather application built with HTML, CSS, and JavaScript. The applic
 ## Project Structure
 
 ```text
-Vanilla-weather-app/
+Vanilla-Weather-App/
 │
 ├── index.html
 ├── weather.png
@@ -40,8 +40,8 @@ Vanilla-weather-app/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Salmah1/Vanilla-weather-app.git
-cd Vanilla-weather-app
+git clone https://github.com/Salmah1/Vanilla-Weather-App.git
+cd Vanilla-Weather-App
 ```
 
 ### Run the Application
